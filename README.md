@@ -1,17 +1,10 @@
 <h1> <u> About me </u> </h1>
-Sup I'm a python and BDscript 2 Developer from the UK.
-I work on stuff like discord bots with discord.py and BDFD and simple text based games with pygame.
-<h2> Interests </h2>
+Sup, I'm just a young game developer doing cool stuff, feel free too have a look around at my projects.
 
-- Discord
-
-- Minecraft
-
-- Python
-
-- HTML
-
-- Hitch hikers guide to the galaxy
+<h2> Cool links </h2>
+-  https://luka22r.itch.io/
+-  https://replit.com/@Luka22r
 
 <h2>Contacts </h2>
-Discord: L⏏k◀_#0604
+Discord: L⏏k◀_#0604 / lukadetu
+Email: lukaderochefortturner@gmail.com
