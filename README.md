@@ -1,14 +1,13 @@
 <h1> <u> About me </u> </h1>
-Sup, I'm just a young game developer doing cool stuff, feel free too have a look around at my projects.
+Hello famalang, I'm an aspiring you game developer working on some cool stuff.  Please check it out :)
 
 <h2> Cool links </h2>
 
 -  https://luka22r.itch.io/
 
--  https://replit.com/@Luka22r
-
--  https://discord.gg/BNtPhTQa3v
+-  https://buymeacoffee.com/Luka22r
 
 <h2>Contacts </h2>
-Discord: L⏏k◀_#0604 / lukadetu
 Email: lukaderochefortturner@gmail.com
+
+Instagam: https://www.instagram.com/lukde22r/
