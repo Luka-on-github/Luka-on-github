@@ -1,5 +1,5 @@
 <h1> <u> About me </u> </h1>
-Hello famalang, I'm an aspiring you game developer working on some cool stuff.  Please check it out :)
+Hello famalang, I'm an aspiring young game developer working on some cool stuff.  Please check it out :)
 
 <h2> Cool links </h2>
 
@@ -8,6 +8,4 @@ Hello famalang, I'm an aspiring you game developer working on some cool stuff.  
 -  https://buymeacoffee.com/Luka22r
 
 <h2>Contacts </h2>
-Email: lukaderochefortturner@gmail.com
-
-Instagam: https://www.instagram.com/lukde22r/
+Email: ldrt2@yahoo.com
